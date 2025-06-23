@@ -1,0 +1,17 @@
+# .gitignore
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/uploads/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
